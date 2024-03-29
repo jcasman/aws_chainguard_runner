@@ -1,0 +1,7 @@
+.coverage.*
+htmlcov/
+docs/_build/
+dist/
+venv/
+.venv/
+
